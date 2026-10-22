@@ -1,0 +1,27 @@
+
+# Unreal-generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE and compiler-generated files
+.vs/
+*.sln
+*.suo
+*.user
+*.VC.db
+*.opendb
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swn
+*.old
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
